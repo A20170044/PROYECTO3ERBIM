@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(222, 39, 39);
+}
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px;
+}
+.portada img {
+  height: 300px;
+}
+.titulo p {
+  font-family: "Comic Sans MS";
+  font-size: 40px;
+  color: rgb(255, 238, 0);
+}
+.enlace p {
+  font-family: "Arial Black";
+  font-size: 20px;
+}
+.resumen p {
+  font-size: 30px;
+  color: #ffffff;
+  font-family: "Buxton Sketch";
+  margin: 50px;
+}
+.textoa p {
+  font-size: 20px;
+  font-family: "Comic Sans MS";
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+.sabores img {
+  height: 300px;
+}
+.resumen2 {
+  font-size: 20px;
+  font-family: "Comic Sans MS";
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+.comidas img {
+  height: 300px;
+}
+.despedida p {
+  font-family: "Comic Sans MS";
+  font-size: 100px;
+  color: rgb(255, 238, 0);
+}
